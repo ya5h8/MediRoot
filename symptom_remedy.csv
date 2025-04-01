@@ -1,0 +1,99 @@
+symptoms,condition,remedies,warning
+Fever,Common Cold,"Rest, Hydration, Acetaminophen",Seek help if fever >3 days
+Cough,Common Cold,"Honey tea, Cough drops, Steam inhalation",See doctor if cough persists >2 weeks
+Sore Throat,Strep Throat,"Salt water gargle, Antibiotics, Lozenges",Untreated strep can damage heart
+Headache,Tension Headache,"Hydration, Dark room, Ibuprofen",Sudden severe headache needs ER visit
+Runny Nose,Allergies,"Antihistamines, Nasal spray, Avoid allergens",-
+Nausea,Food Poisoning,"Clear fluids, BRAT diet, Rest",Go to ER if vomiting blood
+Diarrhea,Stomach Flu,"Hydration, Electrolytes, Bland foods",Watch for dehydration signs
+Fatigue,Iron Deficiency,"Iron supplements, Vitamin C, Red meat",Can indicate serious conditions
+Dizziness,Dehydration,"Water, Electrolytes, Cool place",Could signal stroke if sudden
+Muscle Aches,Flu,"Rest, Warm compress, Pain relievers",-
+Sneezing,Allergies,"Antihistamines, Air purifier, Avoid triggers",-
+Chills,Fever,"Warm blankets, Hydration, Monitor temperature",-
+Swollen Glands,Infection,"Warm compress, Antibiotics, Rest",-
+Chest Congestion,Bronchitis,"Steam, Expectorants, Hydration",See doctor if breathing difficulty
+Shortness of Breath,Asthma,"Inhaler, Sit upright, Stay calm",Emergency if lips turn blue
+Abdominal Pain,Gas,"Walking, Heat pad, Simethicone",Severe pain may need surgery
+Back Pain,Muscle Strain,"Ice/heat, OTC pain relievers, Rest",-
+Joint Pain,Arthritis,"Warm compress, NSAIDs, Gentle exercise",-
+Rash,Contact Dermatitis,"Hydrocortisone cream, Antihistamines",-
+Itching,Eczema,"Moisturizer, Cool bath, Avoid scratching",-
+Heartburn,Acid Reflux,"Antacids, Smaller meals, Avoid caffeine",Chronic cases need endoscopy
+Blurred Vision,Eye Strain,"20-20-20 rule, Eye drops, Rest",Sudden vision loss is emergency
+Ear Pain,Ear Infection,"Warm compress, Pain relievers",May need antibiotics
+Toothache,Cavity,"Clove oil, Salt water rinse, Dentist visit",-
+Hiccups,Irritated Diaphragm,"Hold breath, Drink water, Sugar",Persistent hiccups need checkup
+Constipation,Diet Issue,"Fiber, Water, Exercise",Chronic cases need evaluation
+Vomiting,Stomach Virus,"Clear liquids, Small sips, Rest",Go to ER if lasts >24hrs
+Nasal Congestion,Sinusitis,"Steam, Decongestants, Hydration",-
+Loss of Appetite,Viral Infection,"Small meals, Broth, Rest",-
+Excessive Thirst,Diabetes,"Water, Blood sugar check",-
+Frequent Urination,UTI,"Cranberry juice, Antibiotics",Untreated can damage kidneys
+Pale Skin,Anemia,"Iron-rich foods, Supplements",-
+Bruising Easily,Vitamin Deficiency,"Vitamin C/K, Protect skin",Could indicate blood disorder
+Cold Hands,Raynaud's,"Warm gloves, Avoid cold, Stress management",-
+Hot Flashes,Menopause,"Cool environment, Hydration",-
+Night Sweats,Infection,"Light bedding, Cool room",Could indicate serious illness
+Tremors,Low Blood Sugar,"Juice, Glucose tablets",-
+Confusion,Dehydration,"Electrolytes, Rest",Sudden confusion needs ER
+Slurred Speech,Stroke,CALL 911 IMMEDIATELY,Time = brain cells
+Weakness on One Side,Stroke,CALL 911 IMMEDIATELY,-
+Chest Pressure,Heart Attack,CALL 911 IMMEDIATELY,-
+Rapid Pulse,Anxiety,"Deep breathing, Rest",Rule out heart issues first
+Swollen Ankles,Edema,"Elevate legs, Reduce salt",Could indicate heart failure
+Dry Skin,Eczema,"Moisturizer, Humidifier",-
+Hair Loss,Stress,"Biotin, Reduce stress",-
+Brittle Nails,Nutrition Deficiency,"Multivitamin, Protein",-
+Bad Breath,Gingivitis,"Brush tongue, Hydration",Could indicate infection
+Mouth Ulcers,Canker Sore,"Salt water rinse, Avoid spicy",-
+White Tongue,Oral Thrush,"Antifungals, Probiotics",-
+Red Eyes,Conjunctivitis,"Warm compress, Antibiotic drops",Highly contagious
+Itchy Eyes,Allergies,"Antihistamine drops, Cold compress",-
+Ringing Ears,Tinnitus,"White noise, Reduce caffeine",-
+Hearing Loss,Ear Wax,"Wax drops, Irrigation",Sudden loss needs ENT
+Clumsiness,Inner Ear Issue,"Rest, Balance exercises",Could indicate stroke
+Numbness in Hands,Carpal Tunnel,"Wrist brace, Rest",-
+Tingling Feet,Diabetes,"Blood sugar control, Foot exam",-
+Leg Cramps,Dehydration,"Magnesium, Stretching",-
+Foot Pain,Plantar Fasciitis,"Stretching, Supportive shoes",-
+Knee Pain,Osteoarthritis,"Ice, NSAIDs, Low-impact exercise",-
+Hip Pain,Bursitis,"Rest, Ice, PT",-
+Shoulder Pain,Rotator Cuff,"Rest, Ice, PT",-
+Neck Pain,Poor Posture,"Ergonomics, Stretching",-
+Hand Tremors,Essential Tremor,"Reduce caffeine, Stress management",-
+Twitching Eyes,Fatigue,"Rest, Reduce stress",-
+Lip Swelling,Allergy,"Antihistamines, Ice",Watch for throat swelling
+Face Swelling,Infection,"Antibiotics, Warm compress",-
+Swollen Tongue,Allergic Reaction,EPIPEN if breathing difficulty,-
+Rash After Sun,Sun Allergy,"Aloe vera, Antihistamines",-
+Dark Urine,Dehydration,"Water, Electrolytes",Could indicate liver issue
+Painful Urination,UTI,"Cranberry juice, Antibiotics",-
+Blood in Urine,Kidney Stone,"Pain meds, Hydration",ER if severe pain
+Cloudy Urine,Infection,"Antibiotics, Hydration",-
+Excessive Sweating,Hyperthyroidism,"Cool environment, Doctor visit",-
+Nightmares,Sleep Disorder,"Relaxation, Sleep hygiene",-
+Snoring,Sleep Apnea,"CPAP, Weight loss",-
+Insomnia,Stress,"Sleep routine, No screens",-
+Daytime Sleepiness,Sleep Deprivation,"Regular schedule, Nap",-
+Bedwetting (Adults),Diabetes,"Limit fluids, Doctor visit",-
+Excessive Hunger,Hyperthyroidism,"Small meals, Doctor visit",-
+Food Aversions,Pregnancy,"Small meals, Ginger",-
+Metallic Taste,Medication Side Effect,"Oral hygiene, Doctor",-
+Loss of Smell,COVID-19,"Isolate, Rest",-
+Loss of Taste,COVID-19,"Isolate, Rest",-
+Drooping Face,Bell's Palsy,"Steroids, Eye protection",Rule out stroke first
+Double Vision,Neurological Issue,EMERGENCY EVALUATION,-
+Light Sensitivity,Migraine,"Dark room, Sunglasses",-
+Dry Eyes,Screen Fatigue,"Artificial tears, 20-20-20 rule",-
+Excessive Tears,Allergies,"Antihistamines, Avoid triggers",-
+Eyelid Twitching,Stress,"Rest, Reduce caffeine",-
+Yellow Skin,Jaundice,EMERGENCY LIVER EVALUATION,-
+Easy Bleeding,Vitamin K Deficiency,"Leafy greens, Doctor",-
+Slow Healing,Diabetes,"Wound care, Blood sugar control",-
+Hot Skin,Heat Stroke,"Cool bath, Hydration",EMERGENCY
+Cold Skin,Hypothermia,"Warm layers, Warm drinks",EMERGENCY
+Wheezing,Asthma,"Inhaler, Sit upright",ER if not improving
+Gasping,Choking,Perform Heimlich Maneuver,EMERGENCY
+Seizure,Epilepsy,"Clear area, Time it",ER if first seizure
+Unconsciousness,Medical Emergency,CALL 911,Do NOT move patient
