@@ -1,7 +1,6 @@
 # MediRoot - AI-Powered Health Assistant 🩺💡
 
-![imagescan](https://github.com/user-attachments/assets/66434e08-9e22-4f8b-bf8c-a2782fcc8a84)
-![chatbot](https://github.com/user-attachments/assets/5567a980-614c-475a-b838-206661a189d6)
+![imagescan](https://github.com/user-attachments/assets/df8ffcfd-492a-447c-9175-53d9424d6717)    ![chatbot](https://github.com/user-attachments/assets/79236e2a-7e6a-46cc-8985-7f5c22f0af9f)
 
 
 MediRoot is a mobile health assistant that combines OCR technology and NLP-powered symptom analysis to provide instant medical insights from prescriptions, reports, or user-described symptoms.
