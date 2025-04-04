@@ -87,7 +87,7 @@ pip install -r requirements.txt
 - **[Vaishnavi Chauhan](https://github.com/Vaishnavi276)**
 - **[Radhika Gawande](https://github.com/Radhika300904)** 
 - **[Radhika Chavan](https://github.com/radhikachavan14)** 
-- **[Tejshree Bambal]** 
+- **[Tejshree Bambal](https://github.com/Tejashribambal19)** 
 
 
   
