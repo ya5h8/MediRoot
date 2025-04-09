@@ -85,7 +85,9 @@ pip install -r requirements.txt
 ## 👥 Team
 - **[Yash Gawande](https://github.com/ya5h8)** 
 - **[Vaishnavi Chauhan](https://github.com/Vaishnavi276)**
-- **[Chanchal Karwa](https://github.com/Chanchalkarwa)** 
+- **[Radhika Gawande]**
+- **[Radhika Chavan]**
+- **[Tejshree Bambal]** 
 
 
   
